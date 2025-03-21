@@ -1,7 +1,7 @@
 @echo off
 REM Set the source and destination directories
-set "source_dir=E:\SHRI AND SRI KPM RECEPTION\Test\Cam-001"
-set "destination_dir=E:\SHRI AND SRI KPM RECEPTION\Final selected"
+set "source_dir=E:\SHRI AND SRI KPM RECEPTION\Test\Cam-001" #source directory
+set "destination_dir=E:\SHRI AND SRI KPM RECEPTION\Final selected" #destination directory
 set "file_list=C:\Users\EZHIL\Desktop\final-photos.txt"  REM Path to the text file with filenames
 
 REM Check if the destination directory exists, create it if it doesn't
